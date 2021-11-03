@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     int[] unicode2 = {0x2665, 0x1F93C};
     int[] unicode3 = {0x1F609, 0x1F60D,0x1F63B,0x1F9E1,0x1F525,0x1F618,0x1F389,0x1F4A6,0x1F996,0x1F422
             ,0x1F427,0x1F43F,0x1F31A,0x1F31D,0x2764,0x1F4A6,0x1F596,0x1F443,0x1F937	};
-    int[] unicodex = {0x2764,0x1F31D};
+    int[] unicodex = {0x1F31A,0x1F31D};
     String layla = "לילה טובו";
 //    ClipboardManager clipboard = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
 //    ClipData clip = ClipData.newPlainText("label", "Text to copy");
